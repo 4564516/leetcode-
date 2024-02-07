@@ -1,3 +1,3 @@
 ## leetcode
 
-###紀錄LEETCODE解題
+紀錄LEETCODE解題
